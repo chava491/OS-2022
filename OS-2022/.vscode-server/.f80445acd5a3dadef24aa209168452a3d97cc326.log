@@ -1,0 +1,42 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 36668
+
+[21:09:53] Extension host agent started.
+[21:09:53] [127.0.0.1][28b776f7][ExtensionHostConnection] New connection established.
+[21:09:53] [127.0.0.1][5728620e][ManagementConnection] New connection established.
+[21:09:53] [127.0.0.1][28b776f7][ExtensionHostConnection] <5887> Launched Extension Host Process.
+[21:10:18] Getting Manifest... ms-vscode.cpptools
+[21:10:18] Installing extension: ms-vscode.cpptools
+[21:10:19] Getting Manifest... ms-vscode.cpptools
+[21:10:20] Extensions is already requested to install ms-vscode.cpptools
+[21:10:21] Downloaded extension: ms-vscode.cpptools /users/home/sguel/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.8.4-linux-x64
+[21:10:26] Getting Manifest... formulahendry.code-runner
+[21:10:26] Installing extension: formulahendry.code-runner
+[21:10:27] Downloaded extension: formulahendry.code-runner /users/home/sguel/.vscode-server/data/CachedExtensionVSIXs/formulahendry.code-runner-0.11.7
+[21:10:27] Extracted extension to /users/home/sguel/.vscode-server/extensions/.3228eb33-85f6-46bd-88c8-a392990a65d7: ms-vscode.cpptools
+[21:10:27] Renamed to /users/home/sguel/.vscode-server/extensions/ms-vscode.cpptools-1.8.4
+[21:10:27] Extracting completed. ms-vscode.cpptools
+[21:10:28] Extension installed successfully: ms-vscode.cpptools
+[21:10:28] Extracted extension to /users/home/sguel/.vscode-server/extensions/.fc0ecef4-bf9b-469e-b358-7230dea3e3ec: formulahendry.code-runner
+[21:10:28] Renamed to /users/home/sguel/.vscode-server/extensions/formulahendry.code-runner-0.11.7
+[21:10:28] Extracting completed. formulahendry.code-runner
+[21:10:28] Extension installed successfully: formulahendry.code-runner
+[21:10:41] [127.0.0.1][47d48b62][ManagementConnection] New connection established.
+[21:10:41] [127.0.0.1][7fd3f2ae][ExtensionHostConnection] New connection established.
+[21:10:41] [127.0.0.1][7fd3f2ae][ExtensionHostConnection] <6085> Launched Extension Host Process.
+[21:10:43] [127.0.0.1][5728620e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:10:43] [127.0.0.1][28b776f7][ExtensionHostConnection] <5887> Extension Host Process exited with code: 0, signal: null.
+[21:11:04] [127.0.0.1][47d48b62][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:11:04] [127.0.0.1][7fd3f2ae][ExtensionHostConnection] <6085> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[21:11:04] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[21:16:04] Last EH closed, shutting down

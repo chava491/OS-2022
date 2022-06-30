@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw3/system'
+let g:netrw_dirhist_2='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw3'
+let g:netrw_dirhist_3='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw3/compile'
+let g:netrw_dirhist_4='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw4/include'
+let g:netrw_dirhist_5='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw7/include'
+let g:netrw_dirhist_6='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw7/compile'
+let g:netrw_dirhist_7='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw8/system'
+let g:netrw_dirhist_8='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw9/device/uart'
+let g:netrw_dirhist_9='/users/home/sguel/COSC3250Sprimg2022/Lab/xinu/xinu/xinu-hw9/system'

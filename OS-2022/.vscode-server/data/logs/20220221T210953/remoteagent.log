@@ -1,0 +1,39 @@
+[2022-02-21 21:09:53.073] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-21 21:09:53.073] [remoteagent] [info] Extension host agent started.
+[2022-02-21 21:09:53.172] [remoteagent] [info] [127.0.0.1][28b776f7][ExtensionHostConnection] New connection established.
+[2022-02-21 21:09:53.173] [remoteagent] [info] [127.0.0.1][5728620e][ManagementConnection] New connection established.
+[2022-02-21 21:09:53.179] [remoteagent] [info] [127.0.0.1][28b776f7][ExtensionHostConnection] <5887> Launched Extension Host Process.
+[2022-02-21 21:10:18.796] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-02-21 21:10:18.842] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-02-21 21:10:19.992] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-02-21 21:10:20.054] [remoteagent] [info] Extensions is already requested to install ms-vscode.cpptools
+[2022-02-21 21:10:21.095] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /users/home/sguel/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.8.4-linux-x64
+[2022-02-21 21:10:26.359] [remoteagent] [info] Getting Manifest... formulahendry.code-runner
+[2022-02-21 21:10:26.447] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2022-02-21 21:10:27.705] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /users/home/sguel/.vscode-server/data/CachedExtensionVSIXs/formulahendry.code-runner-0.11.7
+[2022-02-21 21:10:27.961] [remoteagent] [info] Extracted extension to /users/home/sguel/.vscode-server/extensions/.3228eb33-85f6-46bd-88c8-a392990a65d7: ms-vscode.cpptools
+[2022-02-21 21:10:27.989] [remoteagent] [info] Renamed to /users/home/sguel/.vscode-server/extensions/ms-vscode.cpptools-1.8.4
+[2022-02-21 21:10:27.998] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-02-21 21:10:28.000] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-02-21 21:10:28.441] [remoteagent] [info] Extracted extension to /users/home/sguel/.vscode-server/extensions/.fc0ecef4-bf9b-469e-b358-7230dea3e3ec: formulahendry.code-runner
+[2022-02-21 21:10:28.470] [remoteagent] [info] Renamed to /users/home/sguel/.vscode-server/extensions/formulahendry.code-runner-0.11.7
+[2022-02-21 21:10:28.481] [remoteagent] [info] Extracting completed. formulahendry.code-runner
+[2022-02-21 21:10:28.481] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2022-02-21 21:10:41.580] [remoteagent] [info] [127.0.0.1][47d48b62][ManagementConnection] New connection established.
+[2022-02-21 21:10:41.624] [remoteagent] [info] [127.0.0.1][7fd3f2ae][ExtensionHostConnection] New connection established.
+[2022-02-21 21:10:41.638] [remoteagent] [info] [127.0.0.1][7fd3f2ae][ExtensionHostConnection] <6085> Launched Extension Host Process.
+[2022-02-21 21:10:43.962] [remoteagent] [info] [127.0.0.1][5728620e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-21 21:10:43.977] [remoteagent] [info] [127.0.0.1][28b776f7][ExtensionHostConnection] <5887> Extension Host Process exited with code: 0, signal: null.
+[2022-02-21 21:11:04.493] [remoteagent] [info] [127.0.0.1][47d48b62][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-21 21:11:04.509] [remoteagent] [info] [127.0.0.1][7fd3f2ae][ExtensionHostConnection] <6085> Extension Host Process exited with code: 0, signal: null.
+[2022-02-21 21:11:04.509] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-21 21:16:04.510] [remoteagent] [info] Last EH closed, shutting down
